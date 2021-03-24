@@ -1,0 +1,15 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"10PINHEADER";"10PINHEADER";"EUROPOWER1";"";"";
+"1";"+12";"PINHD-1X1";"1X01";"JP3";"PIN HEADER";"";
+"1";"+3v3";"PINHD-1X1";"1X01";"JP2";"PIN HEADER";"";
+"1";"+8V";"PINHD-1X1";"1X01";"JP1";"PIN HEADER";"";
+"1";"-12";"PINHD-1X1";"1X01";"JP4";"PIN HEADER";"";
+"2";"100Uh";"MCC10";"MCC10";"L1, L2";"INDUCTOR";"";
+"3";"104";"C-EU025-040X050";"C025-040X050";"C5, C6, C9";"CAPACITOR, European symbol";"";
+"2";"10R";"R-EU_0309/V";"0309V";"R13, R14";"RESISTOR, European symbol";"";
+"3";"10uf";"CPOL-EUE2.5-5";"E2,5-5";"C7, C8, C10";"POLARIZED CAPACITOR, European symbol";"";
+"2";"1N4004";"1N4004";"DO41-10";"D1, D2";"DIODE";"";
+"1";"4u7";"CPOL-EUE2.5-5";"E2,5-5";"C11";"POLARIZED CAPACITOR, European symbol";"";
+"1";"7808T";"7808T";"TO220H";"IC1";"Positive VOLTAGE REGULATOR";"";
+"1";"GND";"PINHD-1X1";"1X01";"JP5";"PIN HEADER";"";
+"1";"REG1117";"REG1117";"SOT223";"IC3";"800mA and 1A Low Dropout (LDO) Positive Regulator";"";
